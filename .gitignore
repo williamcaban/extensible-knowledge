@@ -4,6 +4,7 @@ venv
 .env*
 .vscode
 .DS_Store
+.ipynb_checkpoints
 _attic
 # ignore locally significant directories
 docset

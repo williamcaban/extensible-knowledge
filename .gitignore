@@ -1,0 +1,11 @@
+# ignore python and editors cache
+__pycache__
+venv
+.env*
+.vscode
+.DS_Store
+_attic
+# ignore locally significant directories
+docset
+data
+chroma

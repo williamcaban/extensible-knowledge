@@ -1,0 +1,15 @@
+langchain
+langchain_community
+langchain_openai
+pypdf
+#libmagic
+#rapidocr-onnxruntime
+tqdm
+chromadb
+sentence-transformers
+# for visualization
+umap
+umap-learn
+## anonymizers tool - https://microsoft.github.io/presidio/analyzer/
+#presidio_analyzer
+#presidio_anonymizer
